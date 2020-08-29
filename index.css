@@ -1,19 +1,20 @@
 body {
-  background-image: url("chadwick-boseman.png");
+  background-image: url("CB-art.png");
+  width: 100%;
   position: relative;
-  /* margin: 0; */
+  margin: 0;
 }
 
 .tribute-text {
   position: absolute;
-  justify-content: center;
   text-align: center;
   right: 150px;
   top: 150px;
   font-size: 1em;
   letter-spacing: 5px;
   color: rgb(224, 224, 224);
-  text-shadow:  3px 3px 2px rgb(165, 3, 165),  
+  text-shadow: 
+  3px 3px 2px rgb(165, 3, 165),  
   5px 5px 2px black;
 }
 
@@ -28,10 +29,3 @@ h3 {
   font-weight: 100;
   margin: 5px 0px;
 }
-
-/* .background-cb {
-  position: absolute;
-  left: 0;
-  right: 0;
-  margin: 0;
-} */
