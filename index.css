@@ -1,7 +1,7 @@
 body {
   background-image: url("CB-art.png");
-  width: 100%;
   position: relative;
+  width: 100%;
   margin: 0;
 }
 
@@ -29,3 +29,4 @@ h3 {
   font-weight: 100;
   margin: 5px 0px;
 }
+
